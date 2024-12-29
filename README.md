@@ -1,55 +1,9 @@
-# Welcome to My GitHub Space! 👨‍💻✨
+<h1 align="center">Hi 👋, I'm Youssef Rajeh</h1>
+<h3 align="center">A passionate Software Developer</h3>
 
-I'm **Youssef Rajeh**, a passionate developer who thrives on solving complex problems, building intuitive applications, and continuously learning the latest in tech. My GitHub is where ideas meet execution—explore, collaborate, and innovate with me!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
-
-## 🌟 What Drives Me
-- **Innovation**: Turning creative ideas into practical, user-focused solutions.
-- **Learning**: Exploring new technologies, frameworks, and concepts every day.
-- **Impact**: Creating meaningful projects that make life easier or more exciting.
-
----
-
-## 🛠️ Tech Stack
-- **Programming**: Java, C++, JavaScript, HTML, CSS
-- **Databases**: SQL, relational/non-relational data design
-- **Tools & Platforms**: Git, Visual Studio, Command Line Utilities
-- **Specialties**: Algorithms, problem-solving, and building dynamic, scalable applications
-
----
-
-## 🚀 Featured Repositories
-### 🔗 [Emergency Room Triage System](https://github.com/your-username/emergency-room-triage)
-A console-based application simulating an emergency room triage system that prioritizes patients based on a custom-built priority queue.
-
-### 🔗 [Breast Cancer Decision Tree](https://github.com/your-username/breast-cancer-decision-tree)
-An application using decision tree logic to classify benign and malignant tumors, implementing Newcomb-Benford's Law for advanced statistical insights.
-
-### 🔗 [FileUsage Utility](https://github.com/your-username/fileusage-utility)
-A command-line tool analyzing directory contents, offering detailed file usage statistics and flexible filtering options.
-
----
-
-## 🌱 What I’m Learning Now
-- Advanced **data structures** and **algorithms** for efficient problem-solving.
-- Building responsive and interactive **web applications**.
-- Exploring **AI/ML frameworks** to integrate data-driven decision-making.
-
----
-
-## 💬 Let’s Collaborate!
-I'm always open to interesting projects and collaborations. Feel free to reach out or explore my repositories!
-
-- **LinkedIn**: [Youssef Rajeh](https://linkedin.com/in/youssef-rajeh-08aa35167)
-- **Twitter**: [@youssef_rajeh](https://twitter.com/youssef_rajeh)
-- **GitHub**: [youssefrajeh](https://github.com/your-username)
-
----
-
-### 🌟 Fun Fact
-The joy of programming for me lies not just in building something functional but in creating something elegant and efficient. Every project is a journey—one where I aim to make the complex simple and the ordinary extraordinary.
-
----
-
-*“Code is not just what I do; it’s how I express, innovate, and create.”*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
