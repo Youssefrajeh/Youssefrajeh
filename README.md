@@ -1,6 +1,5 @@
 # Welcome to My GitHub Space! 👨‍💻✨
 
-Hey there! 
 I'm **Youssef Rajeh**, a passionate developer who thrives on solving complex problems, building intuitive applications, and continuously learning the latest in tech. My GitHub is where ideas meet execution—explore, collaborate, and innovate with me!
 
 ---
