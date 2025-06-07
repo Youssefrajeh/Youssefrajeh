@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="60%">
-      <h1>Hey there 👋, I'm Youssef Rajeh!</h1>
+      <h1>Hey there , I'm Youssef Rajeh!</h1>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&width=435&lines=Full-Stack+Developer;Android+Kotlin+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
     </td>
     <td>
