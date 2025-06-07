@@ -19,7 +19,42 @@
 ### ⚒️ Tech Stack
 ```bash
 Languages:     Java | C# | Kotlin | C++ | JavaScript | SQL
-Frameworks:    ASP.Net Core | Vue.js | Quasar | Android SDK
-Tools:         Git | Entity Framework | Postman | Visual Studio | VS Code
+Frameworks:    ASP.Net Core | Vue.js | Quasar | Android SDK  
+Tools:         Git | Entity Framework | Postman | Visual Studio | VS Code  
 Databases:     SQL Server | SQLite
 
+---
+
+### 🚀 Projects I'm Proud Of
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=anotherproject&theme=radical" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://youssefrajeh.ca"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="mailto:y_rajeh@fanshaweonline.ca"><img src="https://img.shields.io/badge/Email-DD4B39?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=monokai&margin-w=15" />
+</p>
+
+> *“Driven by code, shaped by chemistry, and always ready to build the future.”*
