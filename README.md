@@ -1,34 +1,30 @@
-<h1 align="center">Hi There, I'm Youssef Rajeh</h1>
-<h3 align="center">Software Developer</h3>
-
+### 🚀 Projects I'm Proud Of
 <p align="center">
-  <img src="https://github.com/Youssefrajeh/Youssefrajeh/blob/main/1.gif?raw=true" alt="Animated Banner" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Youssefrajeh&repo=project-1-name&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Youssefrajeh&repo=project-2-name&theme=radical" />
 </p>
 
-<style>
-  .fade-in {
-    animation: fadeIn 2s ease-in;
-  }
+---
 
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(-10px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-</style>
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssefrajeh&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefrajeh&theme=radical" />
+</p>
 
-<div class="fade-in">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefrajeh&label=Profile%20views&color=0e75b6&style=flat" alt="youssefrajeh" /> </p>
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://youssefrajeh.com"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="mailto:y_rajeh@fanshaweonline.ca"><img src="https://img.shields.io/badge/Email-DD4B39?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefrajeh" alt="youssefrajeh" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/youssefrrajeh" target="blank"><img src="https://img.shields.io/twitter/follow/youssefrrajeh?logo=twitter&style=for-the-badge" alt="youssefrrajeh" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssefrajeh&theme=monokai&margin-w=15" />
+</p>
 
-- 📫 How to reach me **youssefrrajeh@gmail.com**
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- The rest of your content remains unchanged -->
-
-</div>
+<p align="center"><em>“Driven by code, shaped by chemistry, and always ready to build the future.”</em></p>
