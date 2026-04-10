@@ -19,7 +19,7 @@
 - Computer Programming & Analysis @ Fanshawe College  
 - Passionate about building clean, scalable software  
 - Background in applied chemistry and quality control  
-- [Portfolio](https://youssefrajeh.com) • 📬 y_rajeh@fanshaweonline.ca
+- [Portfolio](https://youssefrajeh.com) •  y_rajeh@fanshaweonline.ca
 
 ---
 
