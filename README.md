@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Youssef+Rajeh!;Full-Stack+Developer;Android+%7C+Kotlin+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Youssef+Rajeh!;Full-Stack+Developer;Distributed+Systems+%26+Automation;Android+%7C+Kotlin+Developer" alt="Typing SVG" />
 
 <img src="https://github.com/Youssefrajeh/Youssefrajeh/blob/main/1.gif?raw=true" alt="Youssef Rajeh Banner" width="220" style="border-radius: 12px; margin-top: 8px;" />
 
@@ -16,9 +16,11 @@
 
 ### About Me
 
-Computer Programming & Analysis graduate of Fanshawe College, currently taking advanced coursework in secure computing, AI/LLM development, and full-stack applications (Spring Boot + Angular). I build clean, scalable software across web and Android, with a background in applied chemistry and quality control that shapes a detail-oriented, process-driven approach to engineering.
+Full-stack developer who designs and ships complete systems end to end — from distributed backend services to native Android apps and real-time desktop tooling. Recent work spans a gRPC-based multi-service game architecture, a real-time computer vision pipeline for automated people counting, and an automated trading system integrated with a live brokerage API.
 
-I'm currently building LocalMind IDE, a desktop IDE that connects to local LLMs through Ollama, along with an automated Alpaca paper-trading bot. I'm actively looking for full-stack, frontend, or backend developer roles, based in London, ON, and open to remote work across Canada.
+Computer Programming & Analysis, Fanshawe College. Currently extending that foundation with coursework in secure computing, applied AI/LLM systems, and full-stack architecture (Spring Boot, Angular). A prior background in applied chemistry and quality control carries over as a validation-first, detail-driven approach to engineering.
+
+Open to full-stack, frontend, and backend opportunities — based in London, ON, and open to remote work across Canada.
 
 ---
 
@@ -26,28 +28,39 @@ I'm currently building LocalMind IDE, a desktop IDE that connects to local LLMs 
 
 | Category | Technologies |
 |---|---|
-| Languages | Java, C#, Kotlin, C++, HTML, CSS, JavaScript, SQL |
-| Frameworks | ASP.NET Core, Vue.js, Quasar, Android SDK |
+| Languages | Java, C#, Kotlin, C++, Python, HTML, CSS, JavaScript, SQL |
+| Frameworks | ASP.NET Core, gRPC, Vue.js, Quasar, Android SDK |
 | Tools | Git, Entity Framework, Postman, Visual Studio, VS Code |
 | Databases | SQL Server, SQLite |
 
 ---
 
-### Featured Projects
+### Selected Projects
 
-| Project | Description |
-|---|---|
-| E-Commerce Platform | Full-stack online store with product catalog, cart, and checkout flow |
-| Real-Time Chat App | Live messaging app with instant delivery and multi-user rooms |
-| [LocalMind IDE](https://youssefrajeh.com) | Electron desktop IDE with a multi-tab editor, file explorer, and an AI chat panel that streams responses from local Ollama models — packaged for macOS, Windows, and Linux |
-| [Alpaca Trading Bot](https://github.com/Youssefrajeh/trading-bot) | Automated paper-trading bot built on the Alpaca API, designed to run continuously |
+**[WordleGame](https://github.com/Youssefrajeh/WordleGame)** — *C#, ASP.NET Core, gRPC*
+Distributed Wordle clone split across a game server and a word-provider service, communicating over gRPC with bidirectional streaming for real-time gameplay, plus a console client.
 
-See all repositories on [GitHub](https://github.com/Youssefrajeh?tab=repositories) or browse case studies on my [portfolio](https://youssefrajeh.com).
+**[CamCounter](https://github.com/Youssefrajeh/CamCounter)** — *Python, Computer Vision*
+Real-time people-counting system built on YOLO-based detection and tracking, supporting USB webcams, RTSP/IP cameras, and recorded video, with tripwire counting, zone occupancy monitoring, and a live web dashboard.
+
+**[Stoichiometry](https://github.com/Youssefrajeh/Stoichiometry)** — *.NET 9.0, C#*
+Interface-based class library and CLI client for chemical formula validation and molecular mass calculation, with periodic table data integration via CsvHelper.
+
+**[Alpaca Trading Bot](https://github.com/Youssefrajeh/trading-bot)** — *Python*
+Automated paper-trading system integrated with the Alpaca brokerage API, designed to run continuously and execute strategies without manual intervention.
+
+**Real-Time Chat App** — *WebSockets*
+Multi-room messaging platform with authentication and persistent message history over WebSocket connections.
+
+**LocalMind IDE** — *Electron*
+Cross-platform desktop IDE with a multi-tab editor, file explorer, and an AI chat panel that streams responses from local LLMs via Ollama; packaged for macOS, Windows, and Linux.
+
+See more on [GitHub](https://github.com/Youssefrajeh?tab=repositories) or my [portfolio](https://youssefrajeh.com).
 
 ---
 
 <div align="center">
 
-<sub>Thanks for stopping by — always happy to connect about full-stack development, Android, or AI tooling.</sub>
+<sub>Always open to a conversation about distributed systems, computer vision, or AI tooling.</sub>
 
 </div>
